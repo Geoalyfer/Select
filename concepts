@@ -1,0 +1,11 @@
+A função SELECT e a palavra FROM são reservadas para executarem papeis específicos na programação SQL.
+O nome das colunas deve vir depois da palavra SELECT e o nome da tabela deve vir depois da palavra FROM.
+
+Uma boa prática é colocar as palavras reservadas em MAIUSCULO e as demais palavras em minusculo.
+
+O nome das colunas podem ficar endentadas em linhas diferentes para facilitar a inclusao ou exclusão futura.
+
+Quando se utiliza o * após a palavra SELECT o SQL executa a leitura de todas as colunas.
+
+  
+  
